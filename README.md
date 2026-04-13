@@ -88,30 +88,7 @@ Each instruction is executed in **a single clock cycle**, including fetch, decod
 
 
 
-## 📂 Project Structure
-RISC-V-Processor/
-│
-├── src/
-│ ├── alu.v
-│ ├── reg_file.v
-│ ├── pc.v
-│ ├── pc_plus_4.v
-│ ├── pc_target.v
-│ ├── inst_mem.v
-│ ├── data_mem.v
-│ ├── control_unit.v
-│ ├── sign_extender.v
-│ ├── mux.v
-│ ├── top.v
-│
-├── tb_top.v
-├── program.mem
-├── README.md
 
-
-
-
----
 
 ## 🧪 Simulation
 - Tool Used: **ModelSim**
