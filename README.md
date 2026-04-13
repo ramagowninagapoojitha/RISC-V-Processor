@@ -14,7 +14,6 @@ Each instruction is executed in **a single clock cycle**, including fetch, decod
 - Implement all modules using **Verilog HDL**
 - Develop **control logic for instruction execution**
 - Simulate and verify functionality using **ModelSim**
-- Execute a sample program (Fibonacci sequence)
 
 ---
 
@@ -87,6 +86,10 @@ Each instruction is executed in **a single clock cycle**, including fetch, decod
 5. **Write Back** → Result written to register  
 
 
+##output
+
+<img width="629" height="855" alt="output" src="https://github.com/user-attachments/assets/919996f8-0ccf-440a-9705-28c68377a7be" />
+
 
 
 
@@ -109,6 +112,11 @@ Each instruction is executed in **a single clock cycle**, including fetch, decod
 - **B-Type:** beq  
 
 ---
+
+
+
+
+
 
 ## 📊 Features
 - Complete single-cycle datapath
